@@ -2,7 +2,8 @@
 
 "Bulbasaur":[
     {"image1":"./Fotos/primeraFoto.jpg"},
-    {"text1":"0001"}
+    {"text1":"0001"},
+    {"name1":"fss"}
 ],
 
 "Ivysaur":[
@@ -210,7 +211,317 @@
     {"text1":"Discover Colombia's Rich Music Culture"}
 ],
 
-"Bulbasaur":[
+"Oddish":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Gloom":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Vileplume":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Paras":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Parasect":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Venonat":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Venomoth":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Diglett":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Ugtrio":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Meowth":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Persian":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Psyduck":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Golduck":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Mankey":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Primeape":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Growlithe":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Arcanine":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Poliwag":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Poliwhirl":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Poliwrath":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Abra":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Kadabra":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Alakazam":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Machop":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Machoke":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Machamp":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Bellsprout":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Weepinbell":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Victreebel":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Tentacool":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Tentacruel":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Geodude":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Graveler":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Golem":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Ponyta":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Rapidash":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Slowpoke":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Slowbro":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Magnemite":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Magneton":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Farfetch'd":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Doduo":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Dodrio":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Seel":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Dewgong":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Grimer":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Muk":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Shellder":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Cloyster":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Gastly":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Haunter":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Gengar":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Onix":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Drowzee":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Hypno":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Krabby":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Kingler":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Voltorb":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Electrode":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Exeggcute":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Exeggutor":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Cubone":[
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+],
+
+"Marowak":[
     {"image1":"./Fotos/primeraFoto.jpg"},
     {"text1":"Discover Colombia's Rich Music Culture"}
 ],
@@ -274,107 +585,6 @@
     {"image1":"./Fotos/primeraFoto.jpg"},
     {"text1":"Discover Colombia's Rich Music Culture"}
 ],
-
-"Bulbasaur":[
-    {"image1":"./Fotos/primeraFoto.jpg"},
-    {"text1":"Discover Colombia's Rich Music Culture"}
-],
-
-"Bulbasaur":[
-    {"image1":"./Fotos/primeraFoto.jpg"},
-    {"text1":"Discover Colombia's Rich Music Culture"}
-],
-
-"Bulbasaur":[
-    {"image1":"./Fotos/primeraFoto.jpg"},
-    {"text1":"Discover Colombia's Rich Music Culture"}
-],
-
-"Bulbasaur":[
-    {"image1":"./Fotos/primeraFoto.jpg"},
-    {"text1":"Discover Colombia's Rich Music Culture"}
-],
-
-"Bulbasaur":[
-    {"image1":"./Fotos/primeraFoto.jpg"},
-    {"text1":"Discover Colombia's Rich Music Culture"}
-],
-
-"Bulbasaur":[
-    {"image1":"./Fotos/primeraFoto.jpg"},
-    {"text1":"Discover Colombia's Rich Music Culture"}
-],
-
-"Bulbasaur":[
-    {"image1":"./Fotos/primeraFoto.jpg"},
-    {"text1":"Discover Colombia's Rich Music Culture"}
-],
-
-"Bulbasaur":[
-    {"image1":"./Fotos/primeraFoto.jpg"},
-    {"text1":"Discover Colombia's Rich Music Culture"}
-],
-
-"Bulbasaur":[
-    {"image1":"./Fotos/primeraFoto.jpg"},
-    {"text1":"Discover Colombia's Rich Music Culture"}
-],
-
-"Bulbasaur":[
-    {"image1":"./Fotos/primeraFoto.jpg"},
-    {"text1":"Discover Colombia's Rich Music Culture"}
-],
-
-"Bulbasaur":[
-    {"image1":"./Fotos/primeraFoto.jpg"},
-    {"text1":"Discover Colombia's Rich Music Culture"}
-],
-
-"Bulbasaur":[
-    {"image1":"./Fotos/primeraFoto.jpg"},
-    {"text1":"Discover Colombia's Rich Music Culture"}
-],
-
-"Bulbasaur":[
-    {"image1":"./Fotos/primeraFoto.jpg"},
-    {"text1":"Discover Colombia's Rich Music Culture"}
-],
-
-"Bulbasaur":[
-    {"image1":"./Fotos/primeraFoto.jpg"},
-    {"text1":"Discover Colombia's Rich Music Culture"}
-],
-
-"Bulbasaur":[
-    {"image1":"./Fotos/primeraFoto.jpg"},
-    {"text1":"Discover Colombia's Rich Music Culture"}
-],
-
-"Bulbasaur":[
-    {"image1":"./Fotos/primeraFoto.jpg"},
-    {"text1":"Discover Colombia's Rich Music Culture"}
-],
-
-"Bulbasaur":[
-    {"image1":"./Fotos/primeraFoto.jpg"},
-    {"text1":"Discover Colombia's Rich Music Culture"}
-],
-
-"Bulbasaur":[
-    {"image1":"./Fotos/primeraFoto.jpg"},
-    {"text1":"Discover Colombia's Rich Music Culture"}
-],
-
-"Bulbasaur":[
-    {"image1":"./Fotos/primeraFoto.jpg"},
-    {"text1":"Discover Colombia's Rich Music Culture"}
-],
-
-"Bulbasaur":[
-    {"image1":"./Fotos/primeraFoto.jpg"},
-    {"text1":"Discover Colombia's Rich Music Culture"}
-],
-
 
 
 }
