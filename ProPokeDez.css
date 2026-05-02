@@ -1,1 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+#titulo_Pagina {
+  font-family: 'Fredoka One', cursive;
+  font-size: 3em;
+  text-align: center;
+  margin-top: 20px;
+}
+
 
