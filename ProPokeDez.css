@@ -47,6 +47,9 @@ html {
 
 .Cards:hover {
   cursor: pointer;
+  color: aquamarine;
+  background-color: gray;
+
 }
     
 
