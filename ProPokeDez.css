@@ -21,27 +21,33 @@ html {
 
 
 .imagen_Pokemon {
-  width: 60%;
-  height: 60%; 
+  width: 150px;
+  height: 150px; 
 }
 
 #Container_Of_Cards {
-  display: grid;
-  grid-template-columns: 20% 20% 20% 20% 20% ;
-  background-color: #df9100;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 120px;
+  overflow: auto;
 }
 
 .Cards {
-  box-sizing: border-box;
-  border-radius: 20px;
-  display: flex;
-  color: rgb(255, 255, 255);
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: center;
-  flex-direction: column-reverse;
+  width: 200px;
+  max-height: 250px;
+  transition: all 2s ease, box-shadow 0.2s ease-in-out;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  margin: 10px;
+  padding: 10px;
+  background-color: rgb(252, 247, 247);
+  text-align: center;
 }
 
+.Cards:hover {
+  cursor: pointer;
+}
     
 
 .podedex_Pokemon {
