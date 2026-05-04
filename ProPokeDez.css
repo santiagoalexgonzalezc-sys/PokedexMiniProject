@@ -19,3 +19,23 @@ html {
 }
 
 
+
+.imagen_Pokemon {
+  width: 50%;
+  height: 50%; 
+}
+
+#Container_Of_Cards {
+  display: grid;
+  grid-template-columns: 20% 20% 20% 20% 20% ;
+
+  background-color: #df9100;
+}
+
+.podedex_Pokemon {
+  font-size: clamp(0.5rem, 1vw, 1.5rem);
+}
+
+.nombre_Pokemon {
+  font-size: clamp(0.5rem, 1vw, 1.5rem);
+}
