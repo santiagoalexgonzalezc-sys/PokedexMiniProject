@@ -21,8 +21,8 @@ html {
 
 
 .imagen_Pokemon {
-  width: 50%;
-  height: 50%; 
+  width: 60%;
+  height: 60%; 
 }
 
 #Container_Of_Cards {
@@ -30,10 +30,19 @@ html {
   grid-template-columns: 20% 20% 20% 20% 20% ;
   background-color: #df9100;
 }
+
 .Cards {
-  align-content: center;
-  align-self: flex-end;
+  box-sizing: border-box;
+  border-radius: 20px;
+  display: flex;
+  color: rgb(255, 255, 255);
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column-reverse;
 }
+
+    
 
 .podedex_Pokemon {
   font-size: clamp(0.5rem, 1vw, 1.5rem);
