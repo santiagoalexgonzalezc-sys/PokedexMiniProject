@@ -28,7 +28,7 @@ html {
 #Container_Of_Cards {
   display: grid;
   grid-template-columns: 20% 20% 20% 20% 20% ;
-
+  place-items: center;
   background-color: #df9100;
 }
 
