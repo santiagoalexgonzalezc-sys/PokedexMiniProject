@@ -71,5 +71,5 @@ html {
 }
 
 #kanto_Region_Section {
-  display: none;
+  display: flex;
 }
