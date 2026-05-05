@@ -8,16 +8,31 @@ body {
 
 html {
   scroll-behavior: smooth;
+  
 }
 
-#titulo_Pagina {
+#home_Section {
+  display:inline-block;
+  justify-items: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+#title_page {
   font-family: 'Fredoka One', cursive;
-  font-size: 3em;
+  font-size: clamp(3rem, 7vw, 6rem);
   color: #ff0000;
   text-align: center;
   margin-top: 20px;
 }
 
+#title_page2 {
+  font-family: 'Fredoka One', cursive;
+  font-size: clamp(1rem, 3vw, 2rem);
+  color: #000000;
+  text-align: center;
+  margin-top: 20px;
+}
 
 #kanto_Region_Title {
   font-family: 'Fredoka One', cursive;
@@ -71,5 +86,5 @@ html {
 }
 
 #kanto_Region_Section {
-  display: flex;
+  display: none;
 }
