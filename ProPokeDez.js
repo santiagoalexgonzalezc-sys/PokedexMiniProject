@@ -1,4 +1,7 @@
 //<a href=""><img src="https://img.pokemondb.net/sprites/x-y/normal/bulbasaur.png" alt="Bulbasaur"></a>
+const go_Kanto = document.getElementById("go_Kanto")
+const home_Section = document.getElementById("home_Section")
+const kanto_Region_Section = document.getElementById("kanto_Region_Section")
 
 
 async function loadData() {
@@ -14,5 +17,11 @@ async function loadData() {
     }
     
 }
+go_Kanto.addEventListener('click', goToKantoFunction)
 
 loadData()
+
+function goToKantoFunction() {
+    home_Section.style.display = "none"
+    kanto_Region_Section.style.display = "flex"
+}
