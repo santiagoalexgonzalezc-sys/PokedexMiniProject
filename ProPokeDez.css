@@ -19,6 +19,14 @@ html {
 }
 
 
+#kanto_Region_Title {
+  font-family: 'Fredoka One', cursive;
+  font-size: 3em;
+  color: #ff0000;
+  text-align: center;
+  margin-top: 20px;
+}
+
 
 .imagen_Pokemon {
   width: 150px;
@@ -60,4 +68,8 @@ html {
 
 .nombre_Pokemon {
   font-size: clamp(0.5rem, 1vw, 1.5rem);
+}
+
+#kanto_Region_Section {
+  display: none;
 }
