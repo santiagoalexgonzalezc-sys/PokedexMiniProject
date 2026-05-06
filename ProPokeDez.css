@@ -72,7 +72,10 @@ html {
 .Cards:hover {
   cursor: pointer;
 }
-    
+
+input {
+  display:none;
+}
 
 .podedex_Pokemon {
   font-size: clamp(0.5rem, 1vw, 1.5rem);
