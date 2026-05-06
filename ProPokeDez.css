@@ -5,8 +5,8 @@ body {
   margin: 0;
   background-color:azure;
   overflow-y:visible;
+  overflow-x: hidden;
 }
-
 
 html {
   scroll-behavior: smooth;
@@ -46,7 +46,6 @@ html {
   margin-top: 10px;
 }
 
-
 .imagen_Pokemon {
   width: 150px;
   height: 150px; 
@@ -54,7 +53,6 @@ html {
 
 #Container_Of_Cards {
   display: flex;
-  flex-direction: row;
   flex-wrap: wrap;
   justify-content: center;
   margin-top: 20px;
@@ -77,14 +75,16 @@ html {
   cursor: pointer;
 }
 
-
-
 .podedex_Pokemon {
   font-size: clamp(0.9rem, 1.2vw, 1.7rem);
+  padding: 0;
+  margin: 0;
 }
 
 .nombre_Pokemon {
   font-size: clamp(0.9rem, 1.2vw, 1.7rem);
+  padding: 0;
+  margin: 0;
 }
 
 #kanto_Region_Section {
@@ -96,6 +96,20 @@ html {
   height: 100vh;
   
 }
+
+#go_Kanto {
+  margin-top: 5vh;
+  width: 20vw;
+  height: 30vh;
+  background-color: beige;
+  color: rgb(0, 122, 221);
+}
+
+#go_Kanto:hover {
+  cursor: pointer;
+}
+
+
 /*
 #characteristics_Bulbasaur {
   /*
@@ -134,14 +148,14 @@ html {
 
 
 
-#go_Kanto {
-  margin-top: 5vh;
-  width: 20vw;
-  height: 30vh;
-  background-color: beige;
-  color: rgb(0, 122, 221);
-}
 
-#go_Kanto:hover {
-  cursor: pointer;
+@media screen and (max-width: 740px) {
+  .imagen_Pokemon {
+    width: 100px;
+    height: 100px; 
+  }
+
+  .Cards {
+    width: 100px;
+  }
 }
