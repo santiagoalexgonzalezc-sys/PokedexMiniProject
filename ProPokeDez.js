@@ -2,9 +2,15 @@
 const go_Kanto = document.getElementById("go_Kanto")
 const home_Section = document.getElementById("home_Section")
 const kanto_Region_Section = document.getElementById("kanto_Region_Section")
+const openBtn = document.getElementById('openBtn');
+const overlay = document.getElementById('modalOverlay');
 
 
-let current_charateristic
+
+
+function iniciarPagina() {
+    go_Kanto.addEventListener('click', goToKantoFunction)
+}
 
 //async function loadData() {
 //    try {
@@ -16,14 +22,31 @@ let current_charateristic
    // }
     
 //}
-go_Kanto.addEventListener('click', goToKantoFunction)
-
 //loadData()
 
 
+
+openBtn.addEventListener('click', () => {
+  overlay.classList.add('is-visible');
+});
+
+overlay.addEventListener('click', (event) => {
+  if (event.target === overlay) {
+    overlay.classList.remove('is-visible');
+  }
+});
 
 function goToKantoFunction() {
     home_Section.style.display = "none"
     kanto_Region_Section.style.display = "flex"
 }
 
+
+
+window.addEventListener("load", iniciarPagina())
+
+//window.addEventListener('click', (event) => {
+ //   const x = event.clientX;
+ //   const y = event.clientY;
+ //   console.log(`Click coordinates - X: ${x}, Y: ${y}`);
+//});
