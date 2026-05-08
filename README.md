@@ -10,7 +10,8 @@ So far this is how it is going:
 
 
 Home Scren:
-<img width="1919" height="949" alt="6" src="https://github.com/user-attachments/assets/115692a9-80e0-4f0c-a494-803fd5bf3f0f" />
+<img width="1919" height="940" alt="4" src="https://github.com/user-attachments/assets/927790e1-137e-4294-be97-fbe84d322aea" />
+
 
 Kanto Pokemon section:
 
