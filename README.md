@@ -8,8 +8,15 @@ If you want to help me dont think twice about forking this repository
 
 So far this is how it is going:
 
+Home Screen:
+<img width="1919" height="940" alt="4" src="https://github.com/user-attachments/assets/3f349f5a-2ede-4791-8cc2-8a175586215f" />
 
-<img width="1917" height="943" alt="image" src="https://github.com/user-attachments/assets/18e86d5c-1867-4eeb-b5c3-b7ec46e82d13" />
 
-<img width="1918" height="940" alt="2" src="https://github.com/user-attachments/assets/749182a8-5aa6-46c5-85c1-1085df5e1afe" />
+Pokemon List screen:
 
+<img width="1919" height="951" alt="5" src="https://github.com/user-attachments/assets/df6afd64-130d-4eb2-b642-57d6b813df1e" />
+
+
+Pokemon Characteristics personal menu:
+
+<img width="1919" height="949" alt="6" src="https://github.com/user-attachments/assets/31380078-2732-479d-a9f5-b66dd7d88222" />
