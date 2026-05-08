@@ -9,7 +9,15 @@ If you want to help me dont think twice about forking this repository
 So far this is how it is going:
 
 
-<img width="1917" height="943" alt="image" src="https://github.com/user-attachments/assets/18e86d5c-1867-4eeb-b5c3-b7ec46e82d13" />
+Home Scren:
+<img width="1919" height="949" alt="6" src="https://github.com/user-attachments/assets/115692a9-80e0-4f0c-a494-803fd5bf3f0f" />
 
-<img width="1918" height="940" alt="2" src="https://github.com/user-attachments/assets/749182a8-5aa6-46c5-85c1-1085df5e1afe" />
+Kanto Pokemon section:
+
+<img width="1919" height="951" alt="5" src="https://github.com/user-attachments/assets/c66f22f9-ffb1-47b2-b2bb-7a70885118b0" />
+
+Each  Personal menu with their information(Working on it)
+
+<img width="1919" height="949" alt="6" src="https://github.com/user-attachments/assets/f7da6d4a-80ed-457d-8c28-46d1c7cd6efe" />
+
 
