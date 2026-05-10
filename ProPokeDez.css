@@ -109,7 +109,7 @@ html {
   cursor: pointer;
 }
 
-#cardPoke{
+.cardPoke {
   background: none;
   border: none;
   padding: 0;
@@ -127,7 +127,7 @@ html {
   border: #000000 solid 3px;
 }
  
-#cardPoke:active {
+.cardPoke:active {
   background-color:rgb(202, 202, 202);
 }
 
@@ -157,7 +157,7 @@ html {
   height: 100%;
   background-color: rgba(0, 0, 0, 0.4); 
   z-index: 9999;
-
+  /*pointer-events:none;*/
 
   justify-content: center;
   align-items: center;

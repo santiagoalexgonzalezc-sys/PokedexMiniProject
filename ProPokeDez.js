@@ -3,9 +3,9 @@ const go_Kanto = document.getElementById("go_Kanto")
 const home_Section = document.getElementById("home_Section")
 const kanto_Region_Section = document.getElementById("kanto_Region_Section")
 
-let cardPoke = document.getElementById('cardPoke');
+let cardPoke = document.querySelectorAll('.cardPoke')
 let overlay = document.getElementById('modalOverlay');
-let poke_id1 = document.getElementById('poke_id1')
+
 
 
 function iniciarPagina() {
@@ -22,12 +22,12 @@ function iniciarPagina() {
    // }
     
 //}
-//loadData()
+//loadData() I want 
 
-
-cardPoke.addEventListener('click', () => {
-  overlay.classList.add('is-visible');
-
+cardPoke.forEach((card) => {
+  card.addEventListener('click', () => {
+    overlay.classList.add('is-visible');
+  });
 });
 
 
