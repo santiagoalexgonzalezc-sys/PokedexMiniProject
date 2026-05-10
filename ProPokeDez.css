@@ -109,7 +109,27 @@ html {
   cursor: pointer;
 }
 
-
+.cardPoke {
+  background: none;
+  border: none;
+  padding: 0;
+  margin: 0;
+  font: inherit;
+  color: inherit;
+  cursor: pointer;
+  width: 110%;
+  height: 110%;
+  transition: all 2s ease, box-shadow 0.2s ease-in-out;
+  transition: background-color 0.4s ease-in-out, transform 0.5s ease-in-out;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  border-radius: 20%;
+  transform: translate(-4%, -5%); 
+  border: #000000 solid 3px;
+}
+ 
+.cardPoke:active {
+  background-color:rgb(202, 202, 202);
+}
 
 .poke_Class {
   position: fixed;
@@ -137,15 +157,13 @@ html {
   height: 100%;
   background-color: rgba(0, 0, 0, 0.4); 
   z-index: 9999;
-  pointer-events: none; 
-  
+  /*pointer-events:none;*/
+
   justify-content: center;
   align-items: center;
 }
 
-.overlay-container.is-visible {
-  display: flex;
-}
+
 
 .is-visible {
   display: flex;
@@ -171,5 +189,12 @@ html {
   .Cards {
     width: 100px;
     height: 140px;;
+  }
+
+  #openBtn {
+    width: 120%;
+    height: 114%;;
+    transform: translate(-8%, -5%); 
+    border: #000000 solid 3px;
   }
 }
