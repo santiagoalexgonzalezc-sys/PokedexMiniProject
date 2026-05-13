@@ -22,7 +22,7 @@ function iniciarPagina() {
    // }
     
 //}
-//loadData() I want 
+//loadData() 
 
 cardPoke.forEach((card) => {
   card.addEventListener('click', () => {
