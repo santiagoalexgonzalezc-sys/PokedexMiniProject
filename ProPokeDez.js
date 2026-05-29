@@ -4,7 +4,7 @@ const home_Section = document.getElementById("home_Section")
 const kanto_Region_Section = document.getElementById("kanto_Region_Section")
 
 let cardPoke = document.querySelectorAll('.cardPoke')
-let overlay = document.getElementById('modalOverlay');
+let overlays = document.querySelectorAll('.overlay-container');
 
 
 
@@ -26,6 +26,9 @@ function iniciarPagina() {
 
 cardPoke.forEach((card) => {
   card.addEventListener('click', () => {
+    // Find the overlay within the same card parent
+    const cardParent = card.closest('.Cards');
+    const overlay = cardParent.querySelector('.overlay-container');
     overlay.classList.add('is-visible');
   });
 });
@@ -37,10 +40,11 @@ function goToKantoFunction() {
 }
 
 window.addEventListener('click', (event) => {
-  if(overlay.classList == 'overlay-container is-visible' && event.target == overlay) {
-    overlay.classList.remove('is-visible');
-  }
-
+  overlays.forEach((overlay) => {
+    if(overlay.classList.contains('is-visible') && event.target == overlay) {
+      overlay.classList.remove('is-visible');
+    }
+  });
 });
 
 window.addEventListener("load", iniciarPagina())
