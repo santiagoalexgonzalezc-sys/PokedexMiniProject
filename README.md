@@ -1,13 +1,6 @@
 # Pokedex Project
 I am starting my Pokedex Project
 
-My first goal is to do the full Kanto Pokemons.
-
-
-If you want to help me dont think twice about forking this repository
-
-So far this is how it is going:
-
 Home Screen:
 <img width="1919" height="940" alt="4" src="https://github.com/user-attachments/assets/3f349f5a-2ede-4791-8cc2-8a175586215f" />
 
